@@ -1,6 +1,6 @@
 # Description
 
-Autonomous driving mBot Mega using Qualcomm RB5 processor that can map the environment using Kalman Filter and AprilTags and navigate using A* to perform coverage planning action with guarantee for cleaning the environment floor using Boustrophedon planner.
+Autonomous driving mBot Mega using Qualcomm RB5 processor that can map the environment using Kalman Filter and AprilTags, and navigate using A* and Boustrophedon planner to perform coverage planning action with guarantee for cleaning the environment floor.
 
 # How to run
 launch your rb5 camera
