@@ -1,0 +1,2 @@
+rb5_ros/april_detection
+-DCATKIN_DEVEL_PREFIX=/root/rosws/devel -DCMAKE_INSTALL_PREFIX=/root/rosws/install -DCATKIN_WHITELIST_PACKAGES=april_detection -G Unix Makefiles

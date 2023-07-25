@@ -1,0 +1,8 @@
+prefix=/root/rosws/devel
+
+Name: image_rotate
+Description: Description of image_rotate
+Version: 1.15.2
+Cflags: -I/root/rosws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

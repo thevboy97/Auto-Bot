@@ -1,0 +1,8 @@
+prefix=/root/rosws/devel
+
+Name: stereo_image_proc
+Description: Description of stereo_image_proc
+Version: 1.15.2
+Cflags: -I/root/rosws/devel/include -I/root/rosws/src/image_pipeline/stereo_image_proc/include
+Libs: -L${prefix}/lib -lstereo_image_proc
+Requires: image_geometry image_proc sensor_msgs stereo_msgs

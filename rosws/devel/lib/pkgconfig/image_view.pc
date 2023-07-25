@@ -1,0 +1,8 @@
+prefix=/root/rosws/devel
+
+Name: image_view
+Description: Description of image_view
+Version: 1.15.2
+Cflags: -I/root/rosws/devel/include
+Libs: -L${prefix}/lib 
+Requires: dynamic_reconfigure
